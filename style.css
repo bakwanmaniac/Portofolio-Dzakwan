@@ -1,0 +1,38 @@
+body {
+  min-height: 3000px;
+}
+
+nav {
+  background-color: #3c72af;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #adcce6;
+  
+}
+
+.rounded-circle {
+   object-fit: cover;
+}
+
+#karya {
+  background-color: #adcce6;
+}
+
+footer {
+  background-color: #3c72af;
+  color:white;
+}
+
+a {
+  font-weight:bolder;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+
+
+
+
